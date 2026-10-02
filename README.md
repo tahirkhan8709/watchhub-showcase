@@ -7,7 +7,7 @@ An e-commerce watch shopping app with product browsing, cart, and order manageme
 ## Features
 - Product browsing and search
 - Cart and checkout
-- Order management
+- Categories
 - Firebase authentication
 
 ## Screenshots
