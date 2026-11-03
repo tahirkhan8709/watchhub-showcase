@@ -39,6 +39,7 @@ A premium e-commerce app for luxury watch shopping. Users can explore featured c
 <p align="center">
   <img src="login.png" width="200" />
   <img src="home.png" width="200" />
+  <img src="1.png" width="200" />
   <img src="2.png" width="200" />
 </p>
 
