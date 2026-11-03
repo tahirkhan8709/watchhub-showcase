@@ -15,6 +15,11 @@ A premium e-commerce app for luxury watch shopping. Users can explore featured c
 
 ## Features
 
+**Onboarding and Authentication**
+- **Onboarding screens:** 3 welcome screens that introduce the app to new users
+- **Secure authentication:** email sign-up and login powered by Firebase
+- **Google sign-in:** continue quickly with a Google account
+
 **Shopping**
 - **Product browsing:** explore a catalogue of watches with prices, ratings and discount badges
 - **Search:** find watches and brands quickly from the home screen
